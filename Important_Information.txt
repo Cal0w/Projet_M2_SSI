@@ -1,0 +1,16 @@
+Dans le dossier bloc il y a les blocs chiffrés.
+Chaque bloc est classé dans un dossier avec comme nom du dossier le mot passe des blocs chiffrés 
+
+Pour le dossier "Los-AngelesTokyo10" il faut rajouter "?" pour le mot de passe c'est à dire "Los-AngelesTokyo10?"
+
+
+Nella cartella "bloc" si blocchi criptati.
+Ogni blocco è classificato come una cartella con il nome dei blocchi file di password criptate
+
+Per la cartella "Los AngelesTokyo10" deve essere aggiunto "?" per la password che è "Los AngelesTokyo10?"
+
+
+In the "bloc" folder there encrypted blocks.
+Each block is classified as a folder with the name of the password file encrypted blocks
+
+For the "Los AngelesTokyo10" folder must be added "?" for the password that is "Los AngelesTokyo10?"
